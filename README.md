@@ -1,2 +1,2 @@
 # Passenger-Counting-App
- agad bakad
+ A counting app made with CSS, JS and HTML
